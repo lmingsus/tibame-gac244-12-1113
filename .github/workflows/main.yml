@@ -32,7 +32,3 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: ghcr.io/jeffrey-yc/dotNetBMI:latest
-# Use WebAPPService
-app: user-authentication 
-port: 6000
-version: 2
